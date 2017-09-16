@@ -1,4 +1,4 @@
-# Design by Contract vs Design by Capability
+# 10 - Design by Contract vs Design by Capability
 
 
 Mostly influenced by the programming languages we choose. Statically typed languages like Java, c++. and C# often lead us to design by contract, where dynamically typed languages like Smalltalk and ruby lead us to design by capability, and groovy provides the best of both worlds.
